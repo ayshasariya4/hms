@@ -1,0 +1,75 @@
+nav .logo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 150px;
+    height: 200px;
+
+}
+
+.logo a {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-style: mochiy pop one;
+}
+
+.logo a span {
+    color: #5A8F7B;
+}
+
+.top {
+    position: absolute;
+    height: 52px;
+    width: 100%;
+   
+    top: 0px;
+
+}
+
+
+nav ul {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #603601;
+
+}
+
+.top button {
+    position: absolute;
+    left: 1350px;
+    top: 15px;
+    width: 120px;
+    height: 30px;
+    background-color: #377D71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.top button:hover {
+    background: #8879B0;
+    cursor: pointer;
+}

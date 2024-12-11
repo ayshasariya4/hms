@@ -1,0 +1,126 @@
+
+
+.outside {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    height: 700px;
+    width: 1300px;
+    background-color: #CEE5D0;
+    border-radius: 50px;
+
+}
+
+.photo {
+    position: absolute;
+    background-color: ;
+    top: 0px;
+    width: 900px;
+    height: 700px;
+    left: 0px;
+}
+
+.photo svg {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.mt-4 {
+    position: absolute;
+    top: 0px;
+    width: 400px;
+    height: 700px;
+    left: 900px;
+    background-color: #F1F1F1;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+
+.mt-4 .row {
+    position: absolute;
+    top: 300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    left: 50px;
+}
+
+.mt-4 .row .form-group .form-control {
+    width: 300px;
+    height: 45px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background: transparent;
+}
+
+.loginform .inside .details {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+.mt-4 .row button {
+    position: absolute;
+    left: 110px;
+    height: 35px;
+    width: 90px;
+    background-color: #377D71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 7px;
+}
+
+.mt-4 .avatar {
+    position: absolute;
+    top: 50px;
+    height: 150px;
+    width: 150px;
+    left: 120px;
+}
+
+.mt-4 .row a {
+    text-decoration: none;
+
+
+}
+
+.mt-4 .avatar svg {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.loginform h2 {
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.outside .logo1 {
+    position: absolute;
+    top: 250px;
+    left: 540px;
+}
+
+.outside .logo1 a {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-decoration: none;
+    font-style: mochiy pop one;
+}
+
+.outside .logo1 a span {
+    color: #5A8F7B;
+}

@@ -1,0 +1,15 @@
+.logo a {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+
+    margin-left: 50px;
+    text-decoration: none;
+    font-style: mochiy pop one;
+}
+
+.logo a span {
+    color: #5A8F7B;
+}

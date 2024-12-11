@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    background-color: ;
+    background-size: cover;
+
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+nav .logo {
+    position: absolute;
+    left: 30px;
+    top: 13px;
+    width: 150px;
+    height: 200px;
+
+}
+
+.logo a {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+
+    margin-left: 50px;
+    text-decoration: none;
+    font-style: mochiy pop one;
+}
+
+.logo a span {
+    color: #5A8F7B;
+}
+
+.top {
+    position: absolute;
+    height: 52px;
+    width: 100%;
+    background-color: ;
+    top: 0px;
+
+}
+
+
+nav ul {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #603601;
+
+}
+
+.top button {
+    position: absolute;
+    left: 1320px;
+    top: 15px;
+    width: 120px;
+    height: 30px;
+    background-color: #377D71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.top button:hover {
+    background: #8879B0;
+    cursor: pointer;
+
+}
+
+.title {
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+
+.title h3 {
+    font-size: 50px;
+    color:#5A8F7B;
+}
+
+.title h1 {
+    font-size: 50px;
+    color:#377D71;
+    text-decoration: underline;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: #fff;
+}
+
+.container {
+    position: absolute;
+    width: 550px;
+    background: whitesmoke;
+    left: 700px;
+    top: 100px;
+
+    border-radius: 5px;
+    border: 1px solid #377D71;
+    padding: 25px 30px;
+    border-radius: 5px;
+
+}
+
+
+
+.labell {
+    font-weight: 400;
+    width: 150px;
+    display: inline-block;
+}
+
+.input_box {
+    width: 480px;
+    height: 35px;
+    border-radius: 2px;
+    padding-left: 15px;
+    
+    border: 2px solid #5A8F7B;
+    margin-bottom: 15px;
+}
+
+.radiobutton {
+    display: inline-block;
+    padding: 15px;
+
+
+}
+
+
+
+#submit{
+  background: #377D71;
+  border: none;
+  width: 120px;
+  height: 30px;
+  border-radius: 4px;
+ left: 200px;
+ position: absolute;
+color: white;
+}
+
+
+

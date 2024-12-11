@@ -1,0 +1,83 @@
+body {
+    background-color: white;
+}
+
+.container {
+    position: absolute;
+    top: 410px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    left: 550px;
+}
+
+.bg-image {
+    position: absolute;
+    background: powderblue;
+    top: 0px;
+    width: 100%;
+    height: 500px;
+}
+
+.container h1 {
+    top: 500px;
+    font-size: 70px;
+    color: white;
+}
+
+.container h2 {
+    top: 600px;
+    font-size: 40px;
+    color: powderblue;
+}
+
+.container button {
+    border: none;
+    background-color: #187498;
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.container button a {
+    text-decoration: none;
+    color: white;
+}
+
+.container2 {
+    top: 500px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    width: 100%;
+}
+
+.register {
+    position: absolute;
+    top: 550px;
+    left: 400px;
+    height: 300px;
+    width: 250px;
+    background-color: #187498;
+}
+
+.admin {
+    position: absolute;
+    top: 550px;
+    left: 750px;
+    height: 300px;
+    width: 250px;
+    background-color: #187498;
+}
+
+
+.query {
+    position: absolute;
+    top: 550px;
+    left: 1100px;
+    height: 300px;
+    width: 250px;
+    background-color: #187498;
+}
